@@ -8,7 +8,7 @@ private:
 	Player* player_;
 
 public:
-	StageScene();
+	/*StageScene();*/
 
 	void Init();
 	void Update();
