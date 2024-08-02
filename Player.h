@@ -4,7 +4,7 @@
 class Player
 {
 private:
-	Vector3 pos_;
+	Vector3 pos_{ 100,100 };
 	float speed_ = 20;
 public:
 	Player();
